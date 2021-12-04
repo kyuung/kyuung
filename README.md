@@ -1,9 +1,11 @@
 ## 관심사 : FE
-
-##### ⬇️ 노션 링크 ⬇️
+<br/>
+<div align=center><h4>⬇️ 노션 링크 ⬇️</h4>
 <a href="https://endurable-existence-f23.notion.site/Study-278cd394e9a44bdb9e77473f66864cc7" target="_blank">📒 주로 이런 것들을 공부하고 있습니다.</a>
+  </div>
+<br/>
 
-### Stack
+<div align=center><h4>📚 STACKS</h4></div>
 <div align=center>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
@@ -20,6 +22,7 @@
 </div>
 <br/>
 
+
 ![kyuung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuung&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  
