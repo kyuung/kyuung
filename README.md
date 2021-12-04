@@ -1,4 +1,4 @@
-## Frontend를 공부하는 이경아입니다. 
+## Kyuung
 
 ### Links
 <a href="https://endurable-existence-f23.notion.site/Study-278cd394e9a44bdb9e77473f66864cc7" target="_blank">📒 주로 이런 것들을 공부합니다.</a>
