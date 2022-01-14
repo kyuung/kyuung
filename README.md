@@ -1,4 +1,4 @@
-## 관심사 : FE
+## FE.dev 
 
 <div align=center><h4>⬇️ 노션 링크 ⬇️</h4>
 <a href="https://endurable-existence-f23.notion.site/Study-278cd394e9a44bdb9e77473f66864cc7" target="_blank">📒 주로 이런 것들을 공부하고 있습니다.</a>
