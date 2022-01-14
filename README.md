@@ -18,11 +18,3 @@
 
 
 </div>
-<br/>
-
-<div align=center>
-
-![kyuung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuung&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-  </div>
